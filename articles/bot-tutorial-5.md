@@ -149,6 +149,5 @@ async def unmute(ctx: commands.Context, member: discord.Member) -> None:
 今回は`commands.is_owner`デコレータを用いると、管理者限定の機能を簡単に実装できることを学びました。
 次回はエラー処理について学んでいきます。お疲れ様でした。
 
-...
 
 [前回](https://zenn.dev/yumax_panda/articles/bot-tutorial-4) | [次回](https://zenn.dev/yumax_panda/articles/bot-tutorial-6)
