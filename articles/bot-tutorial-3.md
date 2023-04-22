@@ -131,5 +131,4 @@ $msg <#1098766566834847824>
 
 今回からいよいよbotのコアとなる機能を作成していきました。補足は発展的な内容が多かったですが、そこは今回は飛ばしてもらっても大丈夫です。次回は、特定のメンバーをミュートさせる機能を実装していきます。お疲れ様でした。
 
-[前回](https://zenn.dev/yumax_panda/articles/bot-tutorial-2)
-[次回](https://zenn.dev/yumax_panda/articles/bot-tutorial-4)
+[前回](https://zenn.dev/yumax_panda/articles/bot-tutorial-2) | [次回](https://zenn.dev/yumax_panda/articles/bot-tutorial-4)
