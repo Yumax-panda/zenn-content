@@ -146,4 +146,4 @@ discordにはコマンド以外に、「イベント」という概念があり�
 いかがだったでしょうか。今回はbotのセットアップとイベントについて学習しました。次回はいよいよコマンドを実装していきます。
 記事の内容について、誤りや改善点があれば是非コメントをお願いします。お疲れ様でした。
 
-[次回の記事](https://zenn.dev/yumax_panda/articles/bot-tutorial-2)
+[次回](https://zenn.dev/yumax_panda/articles/bot-tutorial-2)

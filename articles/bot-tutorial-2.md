@@ -133,4 +133,4 @@ discord.pyやPycordにはライブラリ特有の[**コンバーター**](https:
 今回はコマンドの基本的な実装方法について学びました。discord.pyはコマンドに関するサポートが豊富で、様々な複雑な処理を簡単に実装できるようになっています。本botの制作を通じ、その一部を知ってもらえれば幸いです。次回はいよいよコマンドで特定のチャンネルのメッセージをファイルにまとめて送信する機能を実装していきます。お疲れ様でした。
 
 
-[前回の記事](https://zenn.dev/yumax_panda/articles/bot-tutorial-1)　| 次回の記事　
+[前回](https://zenn.dev/yumax_panda/articles/bot-tutorial-1)　| [次回](https://zenn.dev/yumax_panda/articles/bot-tutorial-3)　
